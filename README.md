@@ -1,10 +1,12 @@
-Howdy
+Howdy, the name's Tyler!
 ======
-My name's Tyler and I'm from Kansas (although I don't say howdy much). Currently working on personal personal projects in JS and Python.
-Mostly lurking, however interested in collaborating on projects should I stumble across a good fit.
+I'm from Kansas (although I hardly say howdy). Currently working on personal personal projects in JS and Python.
+Mostly lurking, however I'm interested in collaborating should I stumble upon the right opportunity.
 
 
 Languages
-=====
+====
 * Python
 * JS / HTML / CSS
+
+
